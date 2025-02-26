@@ -1,0 +1,36 @@
+/* Basic styling for the profile page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+/* For the CSS Font Control Page */
+#text {
+    font-size: 18px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+/* Style input fields */
+input {
+    margin: 5px;
+    padding: 5px;
+}
+
+/* Style the button */
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #45a049;
+}
